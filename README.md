@@ -1,4 +1,4 @@
-# patternscope
+# pattern-scope
 
 A tiny (<200 lines) CSV pattern-analysis tool.
 
@@ -10,7 +10,7 @@ It computes:
 
 ## Install
 
-pip install patternscope
+pip install pattern-scope
 
 ## Usage
 

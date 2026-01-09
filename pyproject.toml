@@ -1,5 +1,5 @@
 [project]
-name = "patternscope"
+name = "pattern-scope"
 version = "0.1.0"
 description = "Tiny CSV pattern analysis tool."
 readme = "README.md"
@@ -15,4 +15,4 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/rjsabouhi/patternscope"
+Homepage = "https://github.com/rjsabouhi/pattern-scope"
