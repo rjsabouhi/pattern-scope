@@ -1,12 +1,18 @@
 [project]
-name = "repl-nix-workspace"
+name = "patternscope"
 version = "0.1.0"
-description = "Add your description here"
-requires-python = ">=3.11"
+description = "Tiny CSV pattern analysis tool."
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "Ryan Sabouhi" }]
+requires-python = ">=3.8"
+
 dependencies = [
-    "matplotlib>=3.10.8",
-    "numpy>=2.4.0",
-    "pandas>=2.3.3",
-    "scipy>=1.16.3",
-    "streamlit>=1.52.2",
+    "pandas",
+    "numpy",
+    "scipy",
+    "matplotlib",
 ]
+
+[project.urls]
+Homepage = "https://github.com/rjsabouhi/patternscope"
