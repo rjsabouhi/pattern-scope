@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Tiny CSV pattern analysis tool."
 readme = "README.md"
 license = "MIT"
-authors = [{ name = "Ryan Sabouhi" }]
+authors = [{ name = "RJ Sabouhi" }]
 requires-python = ">=3.8"
 
 dependencies = [
